@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#00F;}
+	
+h1{	color:#FC0;
+	border-top:2px solid #FFF;
+	border-bottom:2px solid #FFF;
+	padding-bottom:50px;
+	text-align:center;
+	}
+h3{color: #9C2F30;
+	border-bottom: 1px dashed #0B4204;
+	margin-bottom: 5px;
+
+}
+
+p{
+	color:#FC0;
+	font-family:2em;
+	}
+p span{ font-size:2em;}
+
